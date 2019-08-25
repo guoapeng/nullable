@@ -1,4 +1,4 @@
-module nullable
+module github.com/guoapeng/nullable
 
 go 1.12
 
